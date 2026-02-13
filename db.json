@@ -20,8 +20,8 @@
       "id": "3",
       "name": "cat tree",
       "description": "Item for cat entertainment"
-    },
-   ],
+    }
+  ],
   "users": [
     {
       "@context": "https://schema.org",
@@ -38,8 +38,7 @@
       "name": "George Washington",
       "description": "I cannot tell a lie.",
       "itemId": "3"
-    },
-  
+    }
   ],
   "collection": {
     "@context": "https://schema.org/",
